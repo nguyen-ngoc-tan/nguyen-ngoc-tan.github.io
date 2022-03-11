@@ -193,6 +193,12 @@ img {
   justify-items: start;
 }
 
+.header__note {
+  width: 100%;
+  text-align: center;
+  margin-top: -50px;
+}
+
 h1 {
   font-size: 5.5rem;
   line-height: 1.35;
@@ -203,10 +209,6 @@ h4 {
   font-weight: 500;
 }
 
-h5 {
-  font-size: 1.2rem;
-  font-weight: 500;
-}
 .header__img {
   width: 145%;
   grid-column: 2 / 3;
